@@ -1,2 +1,2 @@
 // Write your code here!
-const newheader = 
+const newheader = document.querySelector("h1#victory");
